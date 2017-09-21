@@ -91,3 +91,4 @@ It is fully compatible (through [MU API *V2*](https://github.com/orvice/ss-panel
 Open source license
 -------------------
 This program is licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
